@@ -27,8 +27,8 @@ pip install -r requirements.txt
 
 | Model    | URL                                                      | Password |
 |----------|----------------------------------------------------------|----------|
-| PiTe-7B  | [Download](https://pan.quark.cn/s/303bbaa800f4)(764.2MB) | UtFi     |
-| PiTe-13B | [Download](https://pan.quark.cn/s/cbede0bc9fad)(1.19GB)  | nZCv     |
+| PiTe-7B  | [Download](https://pan.quark.cn/s/a95b74720f81)(764.2MB) | 2aPr     |
+| PiTe-13B | [Download](https://pan.quark.cn/s/429bfb55289f)(1.19GB)  | HF74     |
 
 ## ✴️ Inference
 
