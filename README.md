@@ -45,10 +45,14 @@ Thanks [PixelLLM](https://github.com/google-research/scenic/tree/main/scenic/pro
 Please cite our paper if you use PiTe in your work:
 
 ```bibtex
-@inproceedings{conf/eccv/Liu24PiTe,
+@inproceedings{conf/eccv/LiuDHZZW24,
   author       = {Yang Liu and Pengxiang Ding and Siteng Huang and Min Zhang and Han Zhao and Donglin Wang},
   title        = {PiTe: Pixel-Temporal Alignment for Large Video-Language Model},
-  booktitle    = {Proc. of ECCV},
+  booktitle    = {{ECCV} {(5)}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15063},
+  pages        = {160--176},
+  publisher    = {Springer},
   year         = {2024}
 }
 ```
